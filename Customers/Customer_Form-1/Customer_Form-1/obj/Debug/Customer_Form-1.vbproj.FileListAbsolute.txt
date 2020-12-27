@@ -1,0 +1,12 @@
+C:\Users\Danyal\Desktop\Customers\Customer_Form-1\Customer_Form-1\bin\Debug\Customer_Form-1.exe.config
+C:\Users\Danyal\Desktop\Customers\Customer_Form-1\Customer_Form-1\bin\Debug\Customer_Form-1.exe
+C:\Users\Danyal\Desktop\Customers\Customer_Form-1\Customer_Form-1\bin\Debug\Customer_Form-1.pdb
+C:\Users\Danyal\Desktop\Customers\Customer_Form-1\Customer_Form-1\bin\Debug\Customer_Form-1.xml
+C:\Users\Danyal\Desktop\Customers\Customer_Form-1\Customer_Form-1\obj\Debug\Customer_Form-1.vbprojResolveAssemblyReference.cache
+C:\Users\Danyal\Desktop\Customers\Customer_Form-1\Customer_Form-1\obj\Debug\Customer_Form_1.Form1.resources
+C:\Users\Danyal\Desktop\Customers\Customer_Form-1\Customer_Form-1\obj\Debug\Customer_Form_1.Resources.resources
+C:\Users\Danyal\Desktop\Customers\Customer_Form-1\Customer_Form-1\obj\Debug\Customer_Form-1.vbproj.GenerateResource.Cache
+C:\Users\Danyal\Desktop\Customers\Customer_Form-1\Customer_Form-1\obj\Debug\Customer_Form-1.exe
+C:\Users\Danyal\Desktop\Customers\Customer_Form-1\Customer_Form-1\obj\Debug\Customer_Form-1.xml
+C:\Users\Danyal\Desktop\Customers\Customer_Form-1\Customer_Form-1\obj\Debug\Customer_Form-1.pdb
+C:\Users\Danyal\Desktop\Customers\Customer_Form-1\Customer_Form-1\obj\Debug\Customer_Form_1.Form2.resources
